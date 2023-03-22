@@ -7,4 +7,4 @@ Steps for installation
 6) Run api and client on two different terminals.
 
 
-Since data is not shared my database when you open your own atlas project the website will not contain any blogs. So i have entered my username and password for the project as comments in the index.js file of the  api folder.
+Since data is not shared my database when you open your own atlas project the website will not contain any blogs. So I have entered my username and password for the project as comments in the index.js file of the  api folder.
